@@ -41,7 +41,7 @@ Binary classification:
 ## 📊 Performance
 - **Model Size:** ~5MB (GitHub-ready)
 - **Latency:** Optimized for real-time stream processing.Project Title
-- 
+
 ⚒️Tools & Libraries
 - Python
 - Scikit-learn
