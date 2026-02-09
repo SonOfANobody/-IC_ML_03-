@@ -48,7 +48,7 @@ Binary classification:
 - NLTK
 - Matplotlib / Seaborn
 
-🪴 Models Used
+⚙️ Models Used
 - Naive Bayes
 - Logistic Regression
 - Random Forest
@@ -61,9 +61,7 @@ TF-IDF text features
 
 Message length (numeric feature)
 
-These were combined using sparse matrix stacking.
-
-⚙️ 
+These were combined using sparse matrix stacking. 
 
 🧪 Train-Test Split
 
