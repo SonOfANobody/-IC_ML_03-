@@ -42,26 +42,22 @@ Binary classification:
 - **Model Size:** ~5MB (GitHub-ready)
 - **Latency:** Optimized for real-time stream processing.Project Title
 
-⚒️Tools & Libraries
+### ⚒️Tools & Libraries
 - Python
 - Scikit-learn
 - Pandas
 - NLTK
 - Matplotlib / Seaborn
 
-⚙️ Models Used
+### ⚙️ Models Used
 - Naive Bayes
 - Logistic Regression
 - Random Forest
 
-🏗 Feature Matrix
-
-The final input features include:
-
-TF-IDF text features
-
-Message length (numeric feature)
-
+### 🏗 Feature Matrix
+-The final input features include:
+-TF-IDF text features
+-Message length (numeric feature)
 These were combined using sparse matrix stacking. 
 
 🧪 Train-Test Split
