@@ -68,7 +68,7 @@ These were combined using sparse matrix stacking.
 
 Stratified split to preserve spam/ham distribution
 
-📊 Evaluation Metrics
+### 📊 Evaluation Metrics
 
 The model can be evaluated using:
 
@@ -82,7 +82,7 @@ F1-score
 
 Confusion Matrix
 
-🚀 Project Workflow
+### 🚀 Project Workflow
 
 Load dataset
 
@@ -98,7 +98,7 @@ Train classification model
 
 Evaluate performance
 
-🛠 Technologies Used
+### 🛠 Technologies Used
 
 Python
 
@@ -112,7 +112,7 @@ SciPy
 
 Matplotlib
 
-📁 Project Structure
+### 📁 Project Structure
 email-spam-detection/
 │
 ├── spam.csv
@@ -120,7 +120,7 @@ email-spam-detection/
 ├── README.md
 └── requirements.txt
 
-## 💎 Key Features for Recruiters
+### 💎 Key Features for Recruiters
 - Resource Optimization:** Model compressed using `joblib` (level 9) to ensure sub-1ms inference.
 - Explainability:** Includes feature importance analysis to justify classification decisions.
 - Robust Pipeline:** Automated handling of text cleaning and numerical standardization.
@@ -129,7 +129,7 @@ email-spam-detection/
 - Multiple classification model
 - Performance evaluation metrics
 
-✅ Key Learning Outcomes
+### ✅ Key Learning Outcomes
 
 Text preprocessing and NLP pipelines
 
@@ -141,7 +141,7 @@ Handling sparse matrices
 
 Debugging real-world ML issues
 
-👤 Author
+### 👤 Author
 
 Muhammad Abdulkareem
 Aspiring Data Scientist & Machine Learning Engineer
